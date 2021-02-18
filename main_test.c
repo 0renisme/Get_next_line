@@ -21,7 +21,6 @@ int main(int argc, char **argv)
 /*
 **	system("leaks a.out");
 */
-	system("leaks a.out");
 
 	return (0);
 }
